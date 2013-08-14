@@ -1,0 +1,5 @@
+apply from: '../common.gradle'
+
+dependencies {
+    compile "com.android.support:appcompat-v7:18.0.+"
+}
